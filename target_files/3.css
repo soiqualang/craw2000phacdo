@@ -1,0 +1,367 @@
+﻿div.scroll {
+    width: 100%;
+    height: 1230px;
+    overflow: scroll;
+}
+div.scroll2 {
+    width: 100%;
+    height: 500px;
+    overflow: scroll;
+}
+.style3 {
+	color: #E80000;text-transform: capitalize;
+	font-weight: bold;
+}
+.style1 {
+	color: #E80000;text-transform: capitalize;
+	font-weight: bold;
+}
+.style4 {
+	color: #E80000;
+	font-weight: bold;font-size: 14px;text-transform: capitalize;
+}
+a:link {
+	text-decoration: none; line-height:24px; font-size:14px; text-transform: capitalize;
+}
+body {
+	background-color: #87C44A;
+	
+}
+@charset "utf-8";
+#khung { 
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;font-size: 16px;
+	border-radius: 5px;
+}
+#qc { 	float: left;	width: 99%;	height: auto;}
+#qc2 { 	float: left; display: none !important;	width: 99%;	height: auto;}
+#tren{
+	float: left;
+	width: 99.2%;
+	height: auto;
+
+	background-color: #FFFFFF;
+	margin-bottom: 2px;
+	padding: 5px;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+}
+#tren2{
+	float: left;
+	height: auto;
+	width: 99%;
+	margin-top: 1px;
+	background-color: #FFFFFF;
+	padding: 5px;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+}
+#qcao{
+	float: left;visibility:hidden;
+	height: 0px;
+	width: 0px;
+}
+
+#phai{
+	float: left;
+	width: 270px;
+	height: 1370px;
+	margin-top: 1px;
+	margin-left: 1px;
+	background-color: #FFFFFF;
+	margin-bottom: 5px;
+	padding: 5px;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+}
+#dm{
+	float: right;
+	width: 260px;
+	height: auto;
+	margin-top: 1px;
+	margin-left: 1px;
+	background-color: #FFFFFF;
+}
+#tomtat{
+	float: left;
+	width: 97%;
+	height: auto;
+	margin-top: 1px;
+	margin-left: 1px;
+	padding: 10px;
+	background-color: #FFFFFF;
+}
+#tomtat2{
+	float: left;
+	height: auto;
+	margin-top: 1px;
+	margin-left: 1px;
+	padding: 10px;
+	background-color: #FFFFFF;
+}
+#thich{
+	float: right;
+	height: auto;
+	margin-top: 1px;
+	margin-left: 1px;
+	padding: 10px;
+	background-color: #FFFFFF;
+}
+#left{
+	float: right;
+	width: 270px;
+	height: 1000px;
+	overflow: scroll;
+	margin-top: 1px;
+	margin-left: 1px;
+	background-color: #FFFFFF;
+	margin-bottom: 5px;
+	padding: 5px;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+}
+#left1{
+	float:left;
+	width: 255px;
+	margin-top: 1px;
+	margin-right: 3px;
+	margin-bottom: 5px;
+	padding: 5px;
+	background-color: #FFFFFF;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+}
+#noidung {
+	float:left;
+	height: auto;
+	width: 640px;
+	margin-top: 1px;
+	
+	background-color: #FFFFFF;
+	margin-bottom: 5px;
+	padding: 5px;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#cssduoi1{
+	float: right;
+	width: 640px;
+	height: auto;
+	margin-top: 1px;
+	background-color: #FFFFFF;
+	margin-bottom: 5px;
+	padding: 5px;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+}
+#cssduoi2{
+}
+#cssduoi3{
+	clear: both;
+	width: 100%;
+	height: auto;
+	margin-top: 1px;
+	background-color: #FFFFFF;
+	margin-bottom: 5px;
+	padding: 5px;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+}
+#huyet {
+	float: left; 
+	height: auto;
+	width: 33%;
+
+}
+#bottomhuyet { background-color:#FFFFFF;
+	float: left;
+	width: 800px;
+	height: auto;
+	margin-top: 1px;
+	background-color: #FFFFFF;
+	margin-bottom: 5px;
+	padding: 5px;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+	
+}
+.video embed,
+	.video object,
+	.video iframe {
+		width: 100%;
+		height: auto;
+		
+	}
+@media screen and (max-width: 950px) {
+
+#khung {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+#tren{
+	float: left;
+	width: 96%;
+}
+#tren2{
+	float: left;
+	height: auto;
+	width: 96%;
+}
+#left1{
+	float: left;
+	width: 96%;
+	display: none !important;
+}
+
+#noidung {
+	float: left;
+	height: auto;
+	width: 96%;
+}
+#left {
+	clear: both;
+	height: auto;;
+	width: 96%;
+}
+#qc { 	display: none !important;	width: 99%;	height: auto;}
+#qc2 { 	float: left; display:block!important; float: left;	width: 99%;	height: auto;}
+#phai{
+	float: left;
+	width: 96%;display: none !important;
+}
+#thich{
+	float: left;
+	width: 94%;
+}
+#tomtat2{
+	float: left;
+	width: 90%;
+}
+#cssduoi1{
+	float: left;
+	height: auto;
+	width: 96%;
+}
+#cssduoi2{
+	float: left;
+	width: 96%;
+}
+#cssduoi3{
+	float: left;
+	width: 96%;
+	height: auto;
+	margin-top: 1px;
+}
+#huyet {
+	float: left; 
+	height: auto;
+	width: 40%;
+
+}
+#bottomhuyet { background-color:#FFFFFF;
+	float: left;
+	height: auto;
+	width: 96%;
+
+}
+
+}
+@media screen and (max-width: 450px) {
+
+#khung {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+#tren{
+	float: left;
+	width: 96%;
+}
+#tren2{
+	float: left;
+	height: auto;
+	width: 96%;
+}
+
+#noidung {
+	float: left;
+	height: auto;
+	width: 96%;
+}
+#left {
+	clear: both;
+	height: auto;;
+	width: 96%;
+}
+#qc { 	display: none !important;	width: 99%;	height: auto;}
+#qc2 { 	float: left; display:block!important; float: left;	width: 99%;	height: auto;}
+#phai{float: left;	width: 96%;}
+#thich{
+	float: left;
+	width: 94%;
+}
+#tomtat2{
+	float: left;
+	width: 90%;
+}
+#cssduoi1{
+	float: left;
+	height: auto;
+	width: 96%;
+}
+#cssduoi2{
+	float: left;
+	width: 96%;
+}
+#cssduoi3{
+	float: left;
+	width: 96%;
+	height: auto;
+	margin-top: 1px;
+}
+#huyet {
+	float: left; 
+	height: auto;
+	width: 96%;
+
+}
+#bottomhuyet { background-color:#FFFFFF;
+	float: left;
+	height: auto;
+	width: 96%;
+
+}
+
+}
