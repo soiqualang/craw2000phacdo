@@ -1,7 +1,7 @@
 ﻿<?php
 ini_set('max_execution_time', 0);
-//header("Content-type: application/vnd.ms-word");
-//header("Content-Disposition: attachment; Filename=SaveAsWordDoc.doc");
+header("Content-type: application/vnd.ms-word");
+header("Content-Disposition: attachment; Filename=SaveAsWordDoc.doc");
 
 function checkurl($href,$domain){
 	if($href!='https://www.facebook.com/yhoc.ykhoa/'){
@@ -39,8 +39,8 @@ function checkexist($url){
 }
 
 include('../lib/simplehtmldom_1_5/simple_html_dom.php');
-$domain='http://phacdochuabenh.com/';
-$url='http://phacdochuabenh.com/phac-do.php';
+$domain='http://678.com.vn/';
+$url='http://678.com.vn/phac-do.php';
 $elgetcontent='div#noidung';
 $i=1;
 $k1='<h1 align="center" class="style4">';
@@ -49,7 +49,7 @@ $k2='<div id="cssduoi2">';
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=Windows-1252\">
 <title>Crawl 2000 phác đồ trị bệnh</title>
 </head>
 <body>
